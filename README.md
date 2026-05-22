@@ -2,20 +2,6 @@
 icon: hand-wave
 cover: https://gitbookio.github.io/onboarding-template-images/header.png
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # 钻石行动项目介绍
@@ -49,4 +35,4 @@ layout:
 
 ### 教程文档
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>钻石行动教程文档</td><td>由官方维护的教程文档</td><td><a href=".gitbook/assets/钻石.jpg">钻石.jpg</a></td><td><a href="https://mclm.gitbook.io/zsxd-help/">https://mclm.gitbook.io/zsxd-help/</a></td></tr><tr><td>社区教程文档</td><td>由社区维护的教程文档</td><td><a href=".gitbook/assets/b_5424e59bdd5a5fbc938130e791d348fa.jpg">b_5424e59bdd5a5fbc938130e791d348fa.jpg</a></td><td><a href="https://doc.ideafox.top/diamod-force/">https://doc.ideafox.top/diamod-force/</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>钻石行动教程文档</td><td>由官方维护的教程文档</td><td><a href=".gitbook/assets/钻石.jpg">钻石.jpg</a></td><td><a href="https://app.gitbook.com/o/zXwOkb8iuduxvRCPd7H6/s/FKMJ2ZtWj4S0hXAtjznd/">钻石行动教程文档</a></td></tr><tr><td>社区教程文档</td><td>由社区维护的教程文档</td><td><a href=".gitbook/assets/b_5424e59bdd5a5fbc938130e791d348fa.jpg">b_5424e59bdd5a5fbc938130e791d348fa.jpg</a></td><td><a href="https://doc.ideafox.top/diamod-force/">https://doc.ideafox.top/diamod-force/</a></td></tr></tbody></table>
